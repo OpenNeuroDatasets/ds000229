@@ -1,0 +1,15 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"ProcedureStepDescription": "MRRC_Research_SiteProtocols",
+	"ProtocolName": "Sag_3D_MPRAGE_10_05",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND"],
+	"AcquisitionDateTime": "2010-04-20T14:14:43.109375",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 7,
+	"EchoTime": 0.00277,
+	"RepetitionTime": 2.53,
+	"PhaseEncodingDirection": "i-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170207"
+}
